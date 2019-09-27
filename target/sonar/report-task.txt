@@ -1,0 +1,7 @@
+organization=hcorg
+projectKey=hctst
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.884
+dashboardUrl=https://sonarcloud.io/dashboard?id=hctst
+ceTaskId=AW10joi9J6StT1-ZPgDG
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AW10joi9J6StT1-ZPgDG
